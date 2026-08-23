@@ -5,3 +5,5 @@ E103           Simran           Finance       Accountant     45000
 E104           Raj              Sales         Executive      40000
 E105           Neha             IT            Tester         42000
 E106           Priya            Marketing     Coordinator    48000
+E107           Rahul            Operations    Analyst        47000
+E108           Anjali           IT          SoftwareEngineer 55000
