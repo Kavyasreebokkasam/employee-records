@@ -1,0 +1,6 @@
+Employee ID    Employee Name    Department    Designation    Salary
+E101           Harpreet         IT            Developer      50000
+E102           Aman             HR            Manager        60000
+E103           Simran           Finance       Accountant     45000
+E104           Raj              Sales         Executive      40000
+E105           Neha             IT            Tester         42000
